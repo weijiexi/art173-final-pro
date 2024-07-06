@@ -1,6 +1,6 @@
 # Project - RGB Matrix 
   <p align="center" ><a href="https://www.youtube.com/watch?v=lxISwvN1Cic" >
-  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/art173_final+_peoject_img.png" width="400" height="400" style="width: 400px; height: 400px;">
+  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/art173_final+_peoject_img.png" width="600" height="569" style="width: 600px; height: 569px;">
   </a></p> 
 
 ## Controlling RGB LED display with Raspberry Pi GPIO
