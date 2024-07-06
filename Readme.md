@@ -1,5 +1,7 @@
 # Project - RGB Matrix 
-
+  <p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
+  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video01.jpg" width="400" height="280" style="width: 400px; height: 280px;">
+  </a></p> 
 ## Controlling RGB LED display with Raspberry Pi GPIO
 
 A demo to use a 32x32 RGB LED panels with the Raspberry Pi.
